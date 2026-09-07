@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Saad Maher, I'm a Data Analyst and I build business-focused analytics projects using Python, SQL, Excel, and Power BI.
+I'm Saad Maher, a Data Analyst and I build business-focused analytics projects using Python, SQL, Excel, and Power BI.
 
 My work focuses on transforming raw data into validated datasets, meaningful performance metrics, interactive dashboards, and evidence-based observations.
 
