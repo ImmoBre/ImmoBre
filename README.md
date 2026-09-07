@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Saad Maher and I'm a Data Analyst.
+I'm Saad Maher and I'm a Data Analyst and I build business-focused analytics projects using Python, SQL, Excel, and Power BI.
 
-I build business-focused analytics projects using Python, SQL, Excel, and Power BI. My work focuses on transforming raw data into validated datasets, clear performance metrics, interactive dashboards, and evidence-based observations.
+My work focuses on transforming raw data into validated datasets, meaningful performance metrics, interactive dashboards, and evidence-based observations.
 
-Based in Casablanca, Morocco, I am currently developing a portfolio for entry-level and remote Data Analyst opportunities.
+Based in Casablanca, Morocco, I am open to entry-level and remote Data Analyst opportunities.
 
 ## Technical Skills
 
@@ -12,31 +12,54 @@ Based in Casablanca, Morocco, I am currently developing a portfolio for entry-le
 * **Business Intelligence:** Power BI, DAX and data modeling
 * **Spreadsheets:** Excel, Pivot Tables, Pivot Charts and dynamic dashboards
 * **Visualization:** Power BI, Excel and Matplotlib
-* **Analytical Methods:** data cleaning, exploratory analysis, KPI development, statistical analysis and validation
+* **Analytical Methods:** Data cleaning, exploratory analysis, KPI development, statistical analysis and validation
 * **Development Tools:** Jupyter Notebook, Git and GitHub
 
-## Featured Project
+## Featured Projects
 
-### Olist E-commerce Business Analytics
+### [Olist E-commerce Business Analytics](https://github.com/ImmoBre/olist-ecommerce-business-analytics)
 
-Business intelligence project examining 99K Brazilian e-commerce orders with Python, MySQL, and Power BI across sales, delivery, customer, seller, product, and review performance.
+Business intelligence project examining 99K Brazilian e-commerce orders across sales, delivery, customers, sellers, products, and customer reviews.
 
-[View the Olist E-commerce Business Analytics project](https://github.com/ImmoBre/olist-ecommerce-business-analytics)
+**Tools:** Python • pandas • MySQL • Power BI • DAX
 
-## Additional Portfolio Projects
+---
 
-* HR Analytics
-* Digital Advertising Analytics
-* Excel Sales Performance Dashboard
-* E-commerce Sales Analytics
+### [E-commerce Sales Analytics](https://github.com/ImmoBre/ecommerce-data-analysis)
 
-These projects explore workforce performance, digital marketing, customer behavior, product performance, sales trends and interactive business reporting.
+E-commerce analytics project exploring sales performance, customer behavior, purchasing patterns, and product performance through reproducible analysis and interactive reporting.
+
+**Tools:** Python • SQL • Power BI • Exploratory Data Analysis
+
+---
+
+### [HR Analytics and Workforce Performance](https://github.com/ImmoBre/hr-analytics-workforce-performance)
+
+HR analytics project examining workforce performance, compensation, recruitment, employee demographics, and engagement.
+
+**Tools:** Python • SQL • Power BI • DAX
+
+---
+
+### [Global Digital Advertising Performance Analysis](https://github.com/ImmoBre/global-digital-advertising-performance-analysis)
+
+Digital advertising analytics project examining campaign performance, marketing channels, audience segments, costs, conversions, and return on advertising spend.
+
+**Tools:** Python • SQL • Power BI • Marketing Analytics
+
+---
+
+### [Superstore Sales Performance Dashboard](https://github.com/ImmoBre/excel-sales-performance-dashboard)
+
+Interactive Excel dashboard analyzing Superstore sales performance through KPI cards, Pivot Tables, Pivot Charts, slicers, and dynamic filtering.
+
+**Tools:** Microsoft Excel • Pivot Tables • Pivot Charts • KPI Cards • Slicers
 
 ## Current Focus
 
-* Building reproducible analytics projects
+* Building reproducible, business-focused analytics projects
 * Strengthening advanced SQL and DAX skills
-* Developing clear, recruiter-friendly dashboards
+* Developing clear and recruiter-friendly dashboards
 * Applying statistical thinking to practical business questions
 
 ## Contact
