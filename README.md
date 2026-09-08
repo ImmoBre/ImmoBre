@@ -23,6 +23,8 @@ Business intelligence project examining 99K Brazilian e-commerce orders across s
 
 **Tools:** Python • pandas • MySQL • Power BI • DAX
 
+[![Olist E-commerce Dashboard](https://raw.githubusercontent.com/ImmoBre/olist-ecommerce-business-analytics/main/images/Executive%20Overview.png)](https://github.com/ImmoBre/olist-ecommerce-business-analytics)
+
 ---
 
 ### [E-commerce Sales Analytics](https://github.com/ImmoBre/ecommerce-data-analysis)
@@ -30,6 +32,8 @@ Business intelligence project examining 99K Brazilian e-commerce orders across s
 E-commerce analytics project exploring sales performance, customer behavior, purchasing patterns, and product performance through reproducible analysis and interactive reporting.
 
 **Tools:** Python • SQL • Power BI • Exploratory Data Analysis
+
+[![E-commerce Sales Dashboard](https://raw.githubusercontent.com/ImmoBre/E-commerce-Sales-Analytics/main/images/executive_overview.png)](https://github.com/ImmoBre/E-commerce-Sales-Analytics)
 
 ---
 
@@ -39,6 +43,8 @@ HR analytics project examining workforce performance, compensation, recruitment,
 
 **Tools:** Python • SQL • Power BI • DAX
 
+[![HR Analytics Dashboard](https://raw.githubusercontent.com/ImmoBre/hr-analytics-workforce-performance/main/images/executive_overview.png)](https://github.com/ImmoBre/hr-analytics-workforce-performance)
+
 ---
 
 ### [Global Digital Advertising Performance Analysis](https://github.com/ImmoBre/global-digital-advertising-performance-analysis)
@@ -47,6 +53,8 @@ Digital advertising analytics project examining campaign performance, marketing 
 
 **Tools:** Python • SQL • Power BI • Marketing Analytics
 
+[![Digital Advertising Dashboard](https://raw.githubusercontent.com/ImmoBre/global-digital-advertising-performance-analysis/main/images/executive_overview.png)](https://github.com/ImmoBre/global-digital-advertising-performance-analysis)
+
 ---
 
 ### [Superstore Sales Performance Dashboard](https://github.com/ImmoBre/excel-sales-performance-dashboard)
@@ -54,6 +62,8 @@ Digital advertising analytics project examining campaign performance, marketing 
 Interactive Excel dashboard analyzing Superstore sales performance through KPI cards, Pivot Tables, Pivot Charts, slicers, and dynamic filtering.
 
 **Tools:** Microsoft Excel • Pivot Tables • Pivot Charts • KPI Cards • Slicers
+
+[![Excel Sales Dashboard](https://raw.githubusercontent.com/ImmoBre/excel-sales-performance-dashboard/main/images/dashboard_overview.png)](https://github.com/ImmoBre/excel-sales-performance-dashboard)
 
 ## Current Focus
 
