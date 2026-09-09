@@ -77,9 +77,9 @@ Interactive Excel dashboard analyzing Superstore sales performance through KPI c
 ## Certifications
 
 - [**Data Scientist**](https://savanna.alxafrica.com/certificates/cxNFSZpm83) — ALX Africa in partnership with ExploreAI Academy · Issued May 2025
-- [**Data Scientist Associate**](https://www.datacamp.com/certificate/DSA0017275151640) — DataCamp · Issued October 2025
 - [**Data Scientist: Machine Learning Career Path**](https://www.codecademy.com/profiles/s.maher/certificates/8e9e59de3f924b33ad2371faf667129b) — Codecademy · Issued August 2025
 - [**Certificate of Achievement – Data Scientist**](https://learn.365datascience.com/c/ed213f76d1) — 365 Data Science · Issued September 2025
+- [**Data Scientist Associate**](https://www.datacamp.com/certificate/DSA0017275151640) — DataCamp · Issued October 2025
 
 ## Contact
 
