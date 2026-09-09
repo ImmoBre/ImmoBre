@@ -4,6 +4,8 @@ I'm Saad Maher, a Data Analyst and I build business-focused analytics projects u
 
 My work focuses on transforming raw data into validated datasets, meaningful performance metrics, interactive dashboards, and evidence-based observations.
 
+My professional development includes completed data science programs and credentials from ALX Africa, DataCamp, Codecademy, and 365 Data Science.
+
 Based in Casablanca, Morocco, I am open to entry-level and remote Data Analyst opportunities.
 
 ## Technical Skills
@@ -71,6 +73,13 @@ Interactive Excel dashboard analyzing Superstore sales performance through KPI c
 * Strengthening advanced SQL and DAX skills
 * Developing clear and recruiter-friendly dashboards
 * Applying statistical thinking to practical business questions
+
+## Certifications
+
+- [**Data Scientist Associate**](https://www.datacamp.com/certificate/DSA0017275151640) — DataCamp · Issued October 2025
+- [**Data Scientist: Machine Learning Career Path**](https://www.codecademy.com/profiles/s.maher/certificates/8e9e59de3f924b33ad2371faf667129b) — Codecademy · Issued August 2025
+- [**Certificate of Achievement – Data Scientist**](https://learn.365datascience.com/c/ed213f76d1) — 365 Data Science · Issued September 2025
+- [**Data Scientist**](https://savanna.alxafrica.com/certificates/cxNFSZpm83) — ALX Africa · Issued May 2025
 
 ## Contact
 
