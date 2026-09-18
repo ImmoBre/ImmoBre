@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:1F6FEB,100:6F42C1&text=Saad%20Maher&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=%F0%9F%93%8A%20Data%20Analyst&descSize=24&descAlignY=62">
 
-[![Skills Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=%F0%9F%9B%A0%EF%B8%8F+Power+BI+%7C+SQL+%7C+Excel+%7C+Python;%F0%9F%A7%A0+Statistics+%7C+Probability+%7C+Machine+Learning+%7C+NLP)](https://git.io/typing-svg)
 
 </div>
 
