@@ -2,17 +2,17 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:1F6FEB,100:6F42C1&text=Saad%20Maher&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=%F0%9F%93%8A%20Data%20Analyst&descSize=24&descAlignY=62">
 
-
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+Excel)](https://git.io/typing-svg)
+[![Skills Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=%F0%9F%9B%A0%EF%B8%8F+Power+BI+%7C+SQL+%7C+Excel+%7C+Python;%F0%9F%A7%A0+Statistics+%7C+Probability+%7C+Machine+Learning+%7C+NLP)](https://git.io/typing-svg)
 
 <br>
 
+### 🧰 Technologies & Tools
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
 <br>
@@ -20,7 +20,9 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 
 <br>
 
@@ -29,7 +31,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 </div>
-
 
 ## Hi there 👋
 
