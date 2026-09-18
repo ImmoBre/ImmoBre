@@ -1,3 +1,12 @@
+<h1 align="center">Saad Maher</h1>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+Excel)](https://git.io/typing-svg)
+
+</div>
+
+
 ## Hi there 👋
 
 I'm Saad Maher, a Data Analyst and I build business-focused analytics projects using Python, SQL, Excel, and Power BI.
