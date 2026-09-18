@@ -5,22 +5,21 @@
 [![Skills Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=%F0%9F%9B%A0%EF%B8%8F+Power+BI+%7C+SQL+%7C+Excel+%7C+Python;%F0%9F%93%8A+Statistics+%7C+Data+Analysis+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 <br>
-
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/saad-ma/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white">
+<a href="mailto:saade8636@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="YOUR_RESUME_URL">
-  <img src="https://img.shields.io/badge/Resume-View-6F42C1?style=flat&logo=readthedocs&logoColor=white">
+<a href="https://drive.google.com/file/d/1z87BQdToKuJIJle9yOWCWneE46IZjb2k/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20CV-6F42C1?style=for-the-badge&logo=googledrive&logoColor=white">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Immobre&label=Profile%20Views&color=58A6FF&style=flat">
+<img src="https://komarev.com/ghpvc/?username=Immobre&label=Profile%20Views&color=58A6FF&style=for-the-badge">
 
 </div>
 
